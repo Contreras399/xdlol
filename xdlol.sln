@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xdlol", "xdlol\xdlol.csproj", "{1A4A3212-8983-4AAC-B4B6-EB07E5E17BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4A3212-8983-4AAC-B4B6-EB07E5E17BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4A3212-8983-4AAC-B4B6-EB07E5E17BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4A3212-8983-4AAC-B4B6-EB07E5E17BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4A3212-8983-4AAC-B4B6-EB07E5E17BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD76D60-E6B8-4926-A9CE-09AA2C103E86}
+	EndGlobalSection
+EndGlobal
